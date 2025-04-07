@@ -1,0 +1,27 @@
+# Ignore artifacts:
+build
+coverage
+node_modules
+prisma
+_test_
+.bundle
+.vscode
+android
+ios
+eslintrc.js
+jest.config.js
+.watchmanconfig
+App copy.tsx
+app.json
+babel.config.js
+Gemfile
+index.js
+metro.config.js
+readme.md
+tsconfig.json
+.env
+.gitignore
+.prettierignore
+.prettierrc
+package-lock.json
+package.json
